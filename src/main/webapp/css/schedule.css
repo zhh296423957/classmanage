@@ -1,0 +1,25 @@
+#div1{
+    text-align: center;
+    margin:0 auto;
+    padding-bottom: 10px;
+}
+#but1{
+    float: right;
+    margin-right: 20px;
+    margin-top: -47px;
+}
+.select1{
+    margin-bottom: 10px;
+    height: 28px;
+    width: 120px;
+    border: 1px solid #aaa;
+}
+
+#span1{
+    font-size: 14px;
+    padding-right:10px;
+}
+
+#but2{
+
+}
